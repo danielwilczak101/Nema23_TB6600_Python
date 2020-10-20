@@ -20,7 +20,7 @@ GPIO.setup(STEP, GPIO.OUT)
 GPIO.output(DIR, CW)
 
 try:
-	# Run forever
+	# Run forever.
 	while True:
 
 		"""Change Direction: Changing direction requires time to switch. The
