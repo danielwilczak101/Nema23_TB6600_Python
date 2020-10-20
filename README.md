@@ -1,15 +1,15 @@
 ## Nema23_TB6600_Python
 Code to show how to use a nema 23 with a TB6600 controller and python
 
-### Wiring Diagram to make it clear.
+### Wiring Diagram:
 <a href="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/stepper_motor_diagram.png">
 <img  src="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/stepper_motor_diagram.png" height="500"></a>
 
-### Refrence to the layout of the Raspberry PI
+### Raspberry PI Pins:
 <a href="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/Raspberry-Pi-GPIO-Header-with-Photo.png">
 <img  src="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/Raspberry-Pi-GPIO-Header-with-Photo.png" height="500"></a>
 
-### Code
+### Code:
 ```py
 import RPi.GPIO as GPIO
 from time import sleep
