@@ -5,7 +5,7 @@ from time import sleep
 DIR = 10
 # Step pin from controller
 STEP = 8
-# 0/1 used to signify clockwise or counterclockwise
+# 0/1 used to signify clockwise or counterclockwise.
 CW = 1
 CCW = 0
 
