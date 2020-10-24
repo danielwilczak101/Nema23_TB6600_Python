@@ -16,7 +16,7 @@ Code to show how to use a nema 23 with a TB6600 controller and python
 
 ### TB6600 Step/Amp Key:
 <a href="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/tb6600.jpg">
-<img  src="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/tb6600.jpg" width="900px"></a>
+<img  src="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/tb6600.jpg"></a>
 
 ### TB6600 Step/Amp Settings:
 <a href="https://raw.githubusercontent.com/danielwilczak101/Nema23_TB6600_Python/main/images/Nema23_Setting_config.jpg">
