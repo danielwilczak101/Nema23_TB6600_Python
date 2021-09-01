@@ -9,11 +9,6 @@ Code to show how to use a nema 23 with a TB6600 controller and python
 <a href="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/Raspberry-Pi-GPIO-Header-with-Photo.png">
 <img  src="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/Raspberry-Pi-GPIO-Header-with-Photo.png" width="900px"></a>
 
-
-### Stepper Motor Speifications:
-<a href="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/specifications_23HS22-2804S.png">
-<img  src="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/specifications_23HS22-2804S.png"></a>
-
 ### TB6600 Step/Amp Key:
 <a href="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/tb6600.jpg">
 <img  src="https://github.com/danielwilczak101/Nema23_TB6600_Python/blob/media/images/tb6600.jpg"></a>
